@@ -2,9 +2,6 @@
 
 Dit project heb ik met mijn groepje gebouwd tijdens een Deepdive ik heb de frontend van deze applicatie geschreven en een klein beetje backend.
 
-![pmot](https://github.com/TimNieborg2/PMOT/assets/125286309/542c3e91-490a-40df-9da5-40e6d039de8e)
-
-
 ## Online te vinden op
 
 https://pmot.psww.dev/nl
