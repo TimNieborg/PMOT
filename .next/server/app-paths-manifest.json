@@ -1,0 +1,7 @@
+{
+  "/[locale]/(pages)/(index)/page": "app/[locale]/(pages)/(index)/page.js",
+  "/[locale]/(pages)/webshop/[categories]/page": "app/[locale]/(pages)/webshop/[categories]/page.js",
+  "/[locale]/(pages)/webshop/page": "app/[locale]/(pages)/webshop/page.js",
+  "/[locale]/(pages)/webshop/[categories]/[details]/page": "app/[locale]/(pages)/webshop/[categories]/[details]/page.js",
+  "/[locale]/(auth)/sign-in/[[...sign-in]]/page": "app/[locale]/(auth)/sign-in/[[...sign-in]]/page.js"
+}

@@ -1,0 +1,38 @@
+{
+  "pages": {
+    "/[locale]/(pages)/(index)/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/[locale]/(pages)/(index)/page.css",
+      "static/chunks/app/[locale]/(pages)/(index)/page.js"
+    ],
+    "/[locale]/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/[locale]/layout.css",
+      "static/chunks/app/[locale]/layout.js"
+    ],
+    "/[locale]/(pages)/webshop/[categories]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/[locale]/(pages)/webshop/[categories]/page.css",
+      "static/chunks/app/[locale]/(pages)/webshop/[categories]/page.js"
+    ],
+    "/[locale]/(pages)/webshop/[categories]/[details]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/[locale]/(pages)/webshop/[categories]/[details]/page.css",
+      "static/chunks/app/[locale]/(pages)/webshop/[categories]/[details]/page.js"
+    ],
+    "/[locale]/(pages)/webshop/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/[locale]/(pages)/webshop/page.js"
+    ],
+    "/[locale]/(auth)/sign-in/[[...sign-in]]/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/[locale]/(auth)/sign-in/[[...sign-in]]/page.js"
+    ]
+  }
+}
